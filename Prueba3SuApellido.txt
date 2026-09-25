@@ -1,0 +1,4 @@
+Primer numero: 0.2
+Segundo numero: 3
+Tercer numero: 2
+Resultado: 1.2
